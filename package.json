@@ -1,0 +1,17 @@
+{
+  "name": "politik-youtube-digest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scraped politische YouTube-Kanäle und schreibt automatisch alle 6 Stunden Zusammenfassungen inkl. Quellenangabe.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "dev": "node server.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.11.0"
+  }
+}

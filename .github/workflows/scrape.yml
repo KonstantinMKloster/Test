@@ -1,0 +1,47 @@
+name: Scrape & Zusammenfassung (alle 6 Stunden)
+
+on:
+  schedule:
+    # Läuft alle 6 Stunden (UTC). Aktiv, sobald diese Datei im Default-Branch liegt.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-job
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Dependencies installieren
+        run: npm ci
+
+      - name: Scraper ausführen
+        run: npm run scrape
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Ergebnisse committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/summaries.json data/last_run.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "chore: automatischer Scrape-Lauf $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

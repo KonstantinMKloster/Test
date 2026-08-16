@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Politik YouTube Digest</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <h1>🗞️ Politik YouTube Digest</h1>
+      <p class="tagline">
+        Automatische Zusammenfassungen politischer YouTube-Kanäle – alle 6 Stunden aktualisiert, inkl. Quelle.
+      </p>
+      <p class="last-run" id="last-run">Lade Status …</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input
+        id="search"
+        type="search"
+        placeholder="Suche nach Titel oder Stichwort …"
+        aria-label="Suche"
+      />
+      <select id="channel-filter" aria-label="Kanal filtern">
+        <option value="">Alle Kanäle</option>
+      </select>
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>
+      Noch keine Zusammenfassungen vorhanden. Der erste automatische Lauf steht noch aus –
+      oder starte ihn manuell mit <code>npm run scrape</code>.
+    </p>
+
+    <section id="entries" class="entries"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Inoffizielles Projekt · Quellen sind bei jeder Zusammenfassung verlinkt · Zusammenfassungen können Fehler
+      enthalten und ersetzen nicht das Original-Video.
+    </p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "startedAt": null,
+  "finishedAt": null,
+  "channels": [],
+  "newEntries": 0,
+  "errors": [],
+  "note": "Noch kein Scrape-Lauf ausgeführt. Läuft automatisch alle 6 Stunden per GitHub Actions, sobald der Branch gemerged ist, oder manuell per 'npm run scrape'."
+}

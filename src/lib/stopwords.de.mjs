@@ -1,0 +1,32 @@
+// Kompakte Liste deutscher Stoppwörter für die lokale, kostenlose
+// Zusammenfassung (Häufigkeits-/Scoring-Basis). Bewusst nicht vollständig
+// wissenschaftlich, sondern praxistauglich für Nachrichten-/Politik-Transkripte.
+export const GERMAN_STOPWORDS = new Set([
+  "aber", "alle", "allem", "allen", "aller", "alles", "als", "also", "am", "an",
+  "andere", "anderem", "anderen", "anderer", "anderes", "auch", "auf", "aus",
+  "bei", "bin", "bis", "bist", "da", "damit", "dann", "das", "dass", "dasselbe",
+  "dazu", "dein", "deine", "deinem", "deinen", "deiner", "deines", "dem", "den",
+  "denen", "denn", "der", "derer", "des", "dessen", "dich", "die", "dies",
+  "diese", "diesem", "diesen", "dieser", "dieses", "dir", "doch", "dort", "du",
+  "durch", "ein", "eine", "einem", "einen", "einer", "eines", "einig", "einige",
+  "einigem", "einigen", "einiger", "einiges", "einmal", "er", "es", "etwas",
+  "euch", "euer", "eure", "für", "gegen", "gewesen", "hab", "habe", "haben",
+  "hat", "hatte", "hatten", "hier", "hin", "hinter", "ich", "ihm", "ihn",
+  "ihnen", "ihr", "ihre", "ihrem", "ihren", "ihrer", "ihres", "im", "in",
+  "indem", "ins", "ist", "ja", "jede", "jedem", "jeden", "jeder", "jedes",
+  "jene", "jenem", "jenen", "jener", "jenes", "jetzt", "kann", "kein", "keine",
+  "keinem", "keinen", "keiner", "keines", "können", "könnte", "machen", "man",
+  "manche", "manchem", "manchen", "mancher", "manches", "mein", "meine",
+  "meinem", "meinen", "meiner", "meines", "mich", "mir", "mit", "muss",
+  "musste", "nach", "nicht", "nichts", "noch", "nun", "nur", "ob", "oder",
+  "ohne", "sehr", "sein", "seine", "seinem", "seinen", "seiner", "seines",
+  "selbst", "sich", "sie", "sind", "so", "solche", "solchem", "solchen",
+  "solcher", "solches", "soll", "sollte", "sondern", "sonst", "über", "um",
+  "und", "uns", "unse", "unsem", "unsen", "unser", "unses", "unter", "viel",
+  "vom", "von", "vor", "während", "war", "waren", "warst", "was", "weil",
+  "weiter", "weitere", "welche", "welchem", "welchen", "welcher", "welches",
+  "wenn", "werde", "werden", "wie", "wieder", "will", "wir", "wird", "wirst",
+  "wo", "wollen", "wollte", "würde", "würden", "zu", "zum", "zur", "zwar",
+  "zwischen", "heute", "immer", "schon", "mal", "also", "gerade", "einfach",
+  "genau", "ganz", "quasi", "dass", "also", "video", "kanal", "leute",
+]);
