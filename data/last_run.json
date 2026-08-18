@@ -1,10 +1,10 @@
 {
-  "startedAt": "2026-08-18T12:40:26.758Z",
+  "startedAt": "2026-08-18T18:34:56.568Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "error": null
     }
   ],
-  "newEntries": 7,
+  "newEntries": 6,
   "errors": [],
-  "finishedAt": "2026-08-18T12:40:43.019Z"
+  "finishedAt": "2026-08-18T18:35:11.050Z"
 }
