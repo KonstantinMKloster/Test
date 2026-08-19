@@ -1,32 +1,49 @@
 {
-  "startedAt": "2026-08-19T01:06:01.525Z",
+  "startedAt": "2026-08-19T06:39:29.167Z",
   "channels": [
     {
       "name": "Clownswelt",
-      "checked": 5,
+      "checked": 0,
       "new": 0,
-      "error": null
+      "error": "RSS-Feed für UCXJBRgiZRZvfilIGQ4wN5CQ fehlgeschlagen: HTTP 404"
     },
     {
       "name": "DerDara",
-      "checked": 5,
+      "checked": 0,
       "new": 0,
-      "error": null
+      "error": "RSS-Feed für UC-75V7JVPyuhsdJnPJCP2GQ fehlgeschlagen: HTTP 500"
     },
     {
       "name": "HeyWolfi",
-      "checked": 5,
+      "checked": 0,
       "new": 0,
-      "error": null
+      "error": "RSS-Feed für UC6hrzR7smGOGQgOh5q5HZYQ fehlgeschlagen: HTTP 404"
     },
     {
       "name": "NIUS",
-      "checked": 5,
+      "checked": 0,
       "new": 0,
-      "error": null
+      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 404"
     }
   ],
   "newEntries": 0,
-  "errors": [],
-  "finishedAt": "2026-08-19T01:06:02.232Z"
+  "errors": [
+    {
+      "channel": "Clownswelt",
+      "error": "RSS-Feed für UCXJBRgiZRZvfilIGQ4wN5CQ fehlgeschlagen: HTTP 404"
+    },
+    {
+      "channel": "DerDara",
+      "error": "RSS-Feed für UC-75V7JVPyuhsdJnPJCP2GQ fehlgeschlagen: HTTP 500"
+    },
+    {
+      "channel": "HeyWolfi",
+      "error": "RSS-Feed für UC6hrzR7smGOGQgOh5q5HZYQ fehlgeschlagen: HTTP 404"
+    },
+    {
+      "channel": "NIUS",
+      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 404"
+    }
+  ],
+  "finishedAt": "2026-08-19T06:39:29.488Z"
 }
