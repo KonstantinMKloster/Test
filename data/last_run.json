@@ -1,32 +1,32 @@
 {
-  "startedAt": "2026-08-25T18:36:20.936Z",
+  "startedAt": "2026-08-26T01:09:33.346Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
       "name": "DerDara",
       "checked": 5,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     {
       "name": "HeyWolfi",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
       "name": "NIUS",
       "checked": 5,
-      "new": 5,
+      "new": 0,
       "error": null
     }
   ],
-  "newEntries": 9,
+  "newEntries": 0,
   "errors": [],
-  "finishedAt": "2026-08-25T18:36:42.560Z"
+  "finishedAt": "2026-08-26T01:09:34.415Z"
 }
