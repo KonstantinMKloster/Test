@@ -1,10 +1,10 @@
 {
-  "startedAt": "2026-09-02T15:57:41.489Z",
+  "startedAt": "2026-09-02T20:30:13.763Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 2,
+      "new": 0,
       "error": null
     },
     {
@@ -16,17 +16,17 @@
     {
       "name": "HeyWolfi",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
       "name": "NIUS",
       "checked": 5,
-      "new": 5,
+      "new": 2,
       "error": null
     }
   ],
-  "newEntries": 10,
+  "newEntries": 4,
   "errors": [],
-  "finishedAt": "2026-09-02T15:58:05.065Z"
+  "finishedAt": "2026-09-02T20:30:24.235Z"
 }
