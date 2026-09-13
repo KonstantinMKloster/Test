@@ -1,5 +1,21 @@
 [
   {
+    "videoId": "IPlupBcnbcg",
+    "channelName": "NIUS",
+    "channelId": "UCQGqiGhMjc_p4lZEhSTb12g",
+    "title": "„Leute, lasst diese Vielfalt endlich weg!“ #nius #niuslive #nachrichten",
+    "source": "https://www.youtube.com/watch?v=IPlupBcnbcg",
+    "thumbnail": "https://i2.ytimg.com/vi/IPlupBcnbcg/hqdefault.jpg",
+    "publishedAt": "2026-09-13T17:34:18+00:00",
+    "scrapedAt": "2026-09-13T20:19:13.673Z",
+    "summaryBullets": [
+      "„Vielfalt ist nichts, was man amtlich regeln sollte.Vielfalt ergibt sich, Vielfalt ist da, oder sie ist nicht da."
+    ],
+    "summaryMethod": "lokal-extraktiv",
+    "hasTranscript": false,
+    "transcriptError": null
+  },
+  {
     "videoId": "govneN-XW7I",
     "channelName": "NIUS",
     "channelId": "UCQGqiGhMjc_p4lZEhSTb12g",
@@ -5379,22 +5395,6 @@
       "Ich habe es allerdings prophezeit mit Merz.",
       "Hier in diesem Studio, ja, da kannte ich das Wort Flachzange noch nicht.",
       "Da hätte ich das dann gebraucht."
-    ],
-    "summaryMethod": "lokal-extraktiv",
-    "hasTranscript": false,
-    "transcriptError": null
-  },
-  {
-    "videoId": "5I4P22Qdm0E",
-    "channelName": "NIUS",
-    "channelId": "UCQGqiGhMjc_p4lZEhSTb12g",
-    "title": "„Was ist das für eine Methode?“ #nius #niuslive #örr",
-    "source": "https://www.youtube.com/watch?v=5I4P22Qdm0E",
-    "thumbnail": "https://i2.ytimg.com/vi/5I4P22Qdm0E/hqdefault.jpg",
-    "publishedAt": "2026-08-25T12:00:15+00:00",
-    "scrapedAt": "2026-08-25T12:42:20.225Z",
-    "summaryBullets": [
-      "Julius Böhm und Gunnar Schupelius kritisieren bei NIUS Live den Umgang des öffentlich-rechtlichen Rundfunks mit Politikern der Alternative für Deutschland (AfD)."
     ],
     "summaryMethod": "lokal-extraktiv",
     "hasTranscript": false,
