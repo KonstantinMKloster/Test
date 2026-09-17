@@ -1,10 +1,10 @@
 {
-  "startedAt": "2026-09-17T03:26:23.056Z",
+  "startedAt": "2026-09-17T10:57:54.590Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 0,
+      "new": 2,
       "error": null
     },
     {
@@ -15,23 +15,18 @@
     },
     {
       "name": "HeyWolfi",
-      "checked": 0,
+      "checked": 5,
       "new": 0,
-      "error": "RSS-Feed für UC6hrzR7smGOGQgOh5q5HZYQ fehlgeschlagen: HTTP 500"
+      "error": null
     },
     {
       "name": "NIUS",
       "checked": 5,
-      "new": 0,
+      "new": 5,
       "error": null
     }
   ],
-  "newEntries": 0,
-  "errors": [
-    {
-      "channel": "HeyWolfi",
-      "error": "RSS-Feed für UC6hrzR7smGOGQgOh5q5HZYQ fehlgeschlagen: HTTP 500"
-    }
-  ],
-  "finishedAt": "2026-09-17T03:26:24.128Z"
+  "newEntries": 7,
+  "errors": [],
+  "finishedAt": "2026-09-17T10:58:10.247Z"
 }
