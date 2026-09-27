@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-09-27T16:24:10.742Z",
+  "startedAt": "2026-09-27T20:53:09.775Z",
   "channels": [
     {
       "name": "Clownswelt",
@@ -22,11 +22,11 @@
     {
       "name": "NIUS",
       "checked": 5,
-      "new": 4,
+      "new": 0,
       "error": null
     }
   ],
-  "newEntries": 5,
+  "newEntries": 1,
   "errors": [],
-  "finishedAt": "2026-09-27T16:24:24.332Z"
+  "finishedAt": "2026-09-27T20:53:12.960Z"
 }
