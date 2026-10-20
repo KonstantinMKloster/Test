@@ -1,5 +1,25 @@
 [
   {
+    "videoId": "lLomW3WgPi4",
+    "channelName": "NIUS",
+    "channelId": "UCQGqiGhMjc_p4lZEhSTb12g",
+    "title": "Umfrage-Beben: AfD zieht der CDU davon – ist Friedrich Merz noch zu retten?",
+    "source": "https://www.youtube.com/watch?v=lLomW3WgPi4",
+    "thumbnail": "https://i1.ytimg.com/vi/lLomW3WgPi4/hqdefault.jpg",
+    "publishedAt": "2026-10-20T18:00:11+00:00",
+    "scrapedAt": "2026-10-20T21:14:58.190Z",
+    "summaryBullets": [
+      "Neue INSA-Umfrage zur Bundestagswahl: Die AfD liegt bei 30 Prozent, die Union fällt auf 18 Prozent.",
+      "Gleichzeitig nähert sich die FDP der Fünf-Prozent-Hürde – mit dramatischen Folgen für mögliche Koalitionen.",
+      "Selbst Union, SPD und Grüne könnten dann keine Mehrheit mehr erreichen.",
+      "Steht Friedrich Merz vor einer Führungskrise?",
+      "Könnten Neuwahlen die CDU noch retten?"
+    ],
+    "summaryMethod": "lokal-extraktiv",
+    "hasTranscript": false,
+    "transcriptError": null
+  },
+  {
     "videoId": "rkP3KHvIQ1Y",
     "channelName": "HeyWolfi",
     "channelId": "UC6hrzR7smGOGQgOh5q5HZYQ",
@@ -5469,24 +5489,6 @@
     "summaryBullets": [
       "„Das sind Schreie der Hilflosigkeit.“ AfD-Parlamentsgeschäftsführer Bernd Baumann bezeichnet die Debatte über ein AfD-Verbot als „Schreie der Hilflosigkeit“.",
       "Die etablierten Parteien seien politisch wehrlos geworden und würden deshalb auf ein Verbot der größten Opposition setzen, so Baumann. #nius #berndbaumann #afd #politik #bundestag"
-    ],
-    "summaryMethod": "lokal-extraktiv",
-    "hasTranscript": false,
-    "transcriptError": null
-  },
-  {
-    "videoId": "mUxkG2VyI54",
-    "channelName": "NIUS",
-    "channelId": "UCQGqiGhMjc_p4lZEhSTb12g",
-    "title": "Flydubai-Maschine sollte für Terroranschlag entführt werden",
-    "source": "https://www.youtube.com/watch?v=mUxkG2VyI54",
-    "thumbnail": "https://i2.ytimg.com/vi/mUxkG2VyI54/hqdefault.jpg",
-    "publishedAt": "2026-09-30T15:34:30+00:00",
-    "scrapedAt": "2026-09-30T17:39:36.234Z",
-    "summaryBullets": [
-      "Flydubai-Maschine sollte für Terroranschlag entführt werden Der dramatische Zwischenfall auf einem Flydubai-Flug von Dubai nach Tel Aviv war offenbar weit mehr als eine Prügelei im Cockpit.",
-      "Nach neuen Informationen soll der Copilot versucht haben, die Kontrolle über die Boeing 737 Max zu übernehmen.",
-      "Israelische Sicherheitsdienste gehen laut Bild inzwischen davon aus, dass die Maschine entführt und möglicherweise für einen Terroranschlag eingesetzt werden sollte."
     ],
     "summaryMethod": "lokal-extraktiv",
     "hasTranscript": false,
