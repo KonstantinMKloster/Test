@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-01T12:40:36.218Z",
+  "startedAt": "2026-11-01T21:41:36.817Z",
   "channels": [
     {
       "name": "Clownswelt",
@@ -10,7 +10,7 @@
     {
       "name": "DerDara",
       "checked": 5,
-      "new": 0,
+      "new": 1,
       "error": null
     },
     {
@@ -22,11 +22,11 @@
     {
       "name": "NIUS",
       "checked": 5,
-      "new": 4,
+      "new": 2,
       "error": null
     }
   ],
-  "newEntries": 5,
+  "newEntries": 4,
   "errors": [],
-  "finishedAt": "2026-11-01T12:40:47.857Z"
+  "finishedAt": "2026-11-01T21:41:46.544Z"
 }
