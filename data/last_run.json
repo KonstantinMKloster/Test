@@ -1,22 +1,22 @@
 {
-  "startedAt": "2026-11-12T00:02:27.155Z",
+  "startedAt": "2026-11-12T14:37:46.574Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
       "name": "DerDara",
       "checked": 5,
-      "new": 2,
+      "new": 1,
       "error": null
     },
     {
       "name": "HeyWolfi",
       "checked": 5,
-      "new": 1,
+      "new": 0,
       "error": null
     },
     {
@@ -26,7 +26,7 @@
       "error": null
     }
   ],
-  "newEntries": 9,
+  "newEntries": 6,
   "errors": [],
-  "finishedAt": "2026-11-12T00:02:47.539Z"
+  "finishedAt": "2026-11-12T14:38:04.375Z"
 }
