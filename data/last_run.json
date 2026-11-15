@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-14T21:57:57.399Z",
+  "startedAt": "2026-11-15T04:49:07.432Z",
   "channels": [
     {
       "name": "Clownswelt",
@@ -23,7 +23,7 @@
       "name": "NIUS",
       "checked": 0,
       "new": 0,
-      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 500"
+      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 404"
     }
   ],
   "newEntries": 0,
@@ -42,8 +42,8 @@
     },
     {
       "channel": "NIUS",
-      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 500"
+      "error": "RSS-Feed für UCQGqiGhMjc_p4lZEhSTb12g fehlgeschlagen: HTTP 404"
     }
   ],
-  "finishedAt": "2026-11-14T21:57:57.831Z"
+  "finishedAt": "2026-11-15T04:49:08.297Z"
 }
