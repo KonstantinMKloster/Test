@@ -1,16 +1,16 @@
 {
-  "startedAt": "2026-11-16T14:47:57.760Z",
+  "startedAt": "2026-11-17T01:34:38.129Z",
   "channels": [
     {
       "name": "Clownswelt",
       "checked": 5,
-      "new": 2,
+      "new": 1,
       "error": null
     },
     {
       "name": "DerDara",
       "checked": 5,
-      "new": 1,
+      "new": 2,
       "error": null
     },
     {
@@ -28,5 +28,5 @@
   ],
   "newEntries": 8,
   "errors": [],
-  "finishedAt": "2026-11-16T14:48:16.255Z"
+  "finishedAt": "2026-11-17T01:34:57.104Z"
 }
